@@ -12,4 +12,6 @@ Object types In a satellite image, you will find lots of different objects like 
 8> Standing water 
 9> Vehicle Large - large vehicle (e.g. lorry, truck,bus), logistics vehicle 
 10> Vehicle Small - small vehicle (car, van), motorbike
-[embed]https://drive.google.com/file/d/1p2mN9sIIqjUde-24gSEW_j1JlBS1e6A6/view?usp=sharing[/embed]
+
+To know more:-
+https://drive.google.com/file/d/1p2mN9sIIqjUde-24gSEW_j1JlBS1e6A6/view?usp=sharing
